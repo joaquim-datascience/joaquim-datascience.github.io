@@ -1,0 +1,39 @@
+body {
+  background-image: url('../images/background.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-left: 3em;
+  margin-right: 3em;
+}
+
+.joaquimpic {
+  float: right;
+}
+
+.barcodepic {
+  float: right;
+}
+
+hr {
+  background-color: #808080;
+  height: 2px;
+}
+
+.centerheader {
+ text-align: center;
+}
+
+a {
+ margin-right: 2%;
+}
+
+.logos {
+  float: right;
+}
+
+.maintenancepic {
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+ width: 50%;
+}

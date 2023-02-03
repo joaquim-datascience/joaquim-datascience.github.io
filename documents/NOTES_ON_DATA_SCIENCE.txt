@@ -1,0 +1,67 @@
+﻿THE ESSENCE OF DATA SCIENCE
+
+
+Updated on: 3 Feb 2023 by Author: Joaquim Rodrigues
+
+
+Data science is the process of gathering insights from data. Data is all around us. We knowingly or unknowingly generate data all the time. Data is basically raw information. Whenever we click a web-link we generate data, whenever we take a routine medical checkup we are generating data, when we answer some poll or survey or just give our opinion on any social media site such as a Facebook comment or some Twitter feed we are generating data. Even sensors generate data. Smart homes, weather monitors, automotive sensors all these devices generate raw data that is collected and stored in databases all over the world.What can we do with this data? How can a business make improvements using our data? Imagine that you are the owner of a major insurance company. What would you be able to do if you suddenly had the most liberal access to medical files of patients all around the world?. In an instant and without any doubt you would become one of the most influential and richest men on the planet. Now you could study the disease trends by age group, country, nationality. Through a careful data analytical study you would be able to predict what a person’s health may be like in 10 or 15 years. Based on such information you could decide and set insurance premiums, offer new and better insurance policies and much much more.
+
+
+Hence, Harvard Business Study in a 2012 report quoted  “Data Science as the sexiest job of the 21’st century. And that is wonderful news for us, data scientists. But who exactly is a data scientist? There are many definitions being passed around. Many define data science in terms of the size of the data set. Others may define data scientists based on the set of  tools one being utilised. However, I would like to stick with a general definition of data science, a definition that is generic and free from vendor related tools and free from data size comparisons  (big data versus small data). To me, a data scientist is a person who is curious enough to ask the right questions, seek the required data, organise and analyse this data, infer useful insights from this data and finally present a great story based on this data. Don’t get me wrong, but storytelling is truly an art in the corporate world. Number crunching, machine learning algorithms, statistical analysis is truly a mouthful, when we talk to executive management. We can’t place our mathematical formulas on a plate and expect management to understand the result of our findings. That would be hogwash to them!!! As data scientists we bear a moral responsibility to “break it down and simplify”. Gather our findings, summarise our data and use proper visualisation tools (charts / graphs). Do whatever it takes to make it correct and simple to understand. Bring out the best of your findings and put it to management in a way that they can make sound strategic decisions.
+
+
+“This is what data science always was, this is what it always is and this is what it always will be”
+
+
+There are many sources through which data is made freely available for public use. Some examples of open data sources are as below:
+1. https://www.pewresearch.org/
+2. http://datacatalogs.org/
+3. http://data.un.org/
+4. https://data.gov/
+5. https://www.europeandataportal.eu/en/
+6. https://data.gov.in/
+7. https://www.kaggle.com/datasets/
+
+
+Open data sources and platforms such as these, accomplish a crucial step for a data scientist and that is acquiring data. Assuming that the website from which you are gleaning data is reliable, you will be able to churn out fascinating insights and tell everyone a great story.
+BASIC PROPERTIES OF DATA
+
+
+Structured Vs. Unstructured Data: When data is presented in a nice structured format such as an excel table, database table or in any other matrix or tabular format, then we refer to this data as structured data. Structured data is organised and laid out in a proper format. As an example, an excel sheet is essentially a tabular matrix that is made up of rows and columns. Rows represent cases of observation. Columns represent variables and for each variable in the column the same data type value is recorded, 
+
+
+Unstructured data refers to data that is not recorded in any obvious format. Examples of unstructured data may be Twitter feed, Facebook comment. When we are confronted with unstructured data, we first need to build a matrix to structure it. It is important to remember that it is not possible to directly analyse unstructured data.
+
+
+Quantitative Vs. Categorical Data: Quantitative data is also known as numerical data. Quantitative data consists of numerical values. Essentially this means that we can perform mathematical operations on this type of data. Age, weight, price are some examples of quantitative data. Mathematical formulas and models may be applied to this type of data. It can also be represented visually using graphs and charts. Quantitative data may be either continuous or discrete. Continuous data can take any numerical value. Discrete data can take only integer values.
+
+
+Categorical data is non-numeric data. It consists of labels that describe the properties of the objects under consideration. This kind of data can only take on a specific set of non-mathematical values representing a set of possible categories. Examples of categorical data include gender, hair colour. It must be noted that categorical data may be coded numerically for the purpose of displaying it  and not for performing mathematical operations. Categorical data may be subdivided as either binary or ordinal data. Binary data can take on only one of two values such as numerically encoding male and female gender as 0 and 1. Ordinal data has an explicit ordering such as review rating numbered from 1 to 5 or rating such as bad, good, excellent.
+
+
+Big Data Vs. Little Data:
+Theoretically speaking, having more data is always better than having less. Well, we could always throw away what we don’t want right? Practically speaking however as the volume of the data grows then so does the data analysis time. It may be hard to conceptualise big data on the screen. Big data sets are  complex to visualise, let alone plot them on a graph.  Ironically big data is sometimes called bad data. The reason being that big data is often a by-product of some other process. It’s not really needed and it may not necessarily answer the questions at hand, but it falls right into your lap and stares at you right in the face.
+
+
+On the other hand, little or small data in the form of spreadsheets provide a quick response and are much easier to handle and visualise. Of course we can use sophisticated algorithms that can churn out the best that big data has to offer, but staying small generally leads to faster data analysis. Simple models do not require massive data to fit or evaluate. It is the simple machine learning models that often get the job done. When we are working on some data analytical project, we need to remember that the right data set is the one that is most directly relevant to the task at hand and not necessarily the biggest one.
+
+
+Summary:
+Now is the best time to be a data scientist. Free tools from the Open Source institute and Free Software foundation, as well as Commercial packages are available to everyone. Data sets may be downloaded from the public domain. All that is needed from us is Curiosity and Persistence.
+DATA ANALYSIS IN MODERN INDUSTRY
+
+
+There appears to be a disconnect between academic learning and what is really needed in today's industry. Take any academic textbook for instance and we quickly notice that most authors write academic textbooks, most ardently believing that each reader is going to turn into a research scholar.
+They use vocabulary that would make your tongue roll sideways. Every paragraph is a mouthful to swallow and every page is like mastering the mountain. And here’s the thing. By the time you get to the end of the book, assuming that you do of course, you would have forgotten the beginning or why in the world are you ever even holding the textbook like some dementiated fool. The words do not inspire, the sentences do not connect the dots and you just don’t get it.
+
+
+The content that I am currently writing is based on two books in particular that I feel convey the true essence of modern data science. The Data Science Design Manual by Dr. Steven S. Skiena and the other one is Getting Started with Data Science (GSDS) - Making Sense of Data with Analytics by Dr. Murtaza Haider. These two authors in particular have written practical books that any sensible person can read and connect it with practical industry. The ideas sprinkled within these books tend to linger in one’s brain and hence they are worth reading once or maybe twice cover to cover. I also base this writing on my own learning experiences. Hence I hope that this content may be useful and understandable to most readers, seeking to understand a bit more about data science.
+
+
+To sum it all up in a one liner Dr. Murtaza Haider states that unlike academic research, industry research delivers reports that often have only 3 simple ingredients: A tabulated summary, insightful graphics and an awesome narrative. And it is on these 3 ingredients that we will try to focus on in this book.
+
+
+  WHAT IS CLASSIFICATION AND REGRESSION
+
+
+No book on data science can ever be complete without explaining classification and regression. Hence we will make a short note of it here and come back to it in later sections, as it's needed.
